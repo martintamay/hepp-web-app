@@ -1,6 +1,0 @@
-index.php
-hepp
-grid_producto_v3
-NAO
-cons
-grid_producto_v3

@@ -1,6 +1,0 @@
-index.php
-hepp
-control_v2
-NAO
-contr
-control_v2

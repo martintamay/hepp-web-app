@@ -1,6 +1,0 @@
-index.php
-hepp
-ini
-NAO
-blank
-ini

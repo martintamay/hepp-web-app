@@ -1,6 +1,0 @@
-index.php
-hepp
-grid_publicacion
-SIM
-cons
-grid_publicacion

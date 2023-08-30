@@ -1240,3 +1240,7 @@ header.historia{
 	height: 960px;
 	width: 100%;
 }
+
+footer ul {
+  margin-left: 2rem;
+}

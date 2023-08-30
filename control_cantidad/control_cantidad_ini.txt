@@ -1,6 +1,0 @@
-index.php
-hepp
-control_cantidad
-NAO
-contr
-control_cantidad

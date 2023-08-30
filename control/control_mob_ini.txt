@@ -1,6 +1,0 @@
-control_mob.php
-hepp
-control_mob
-NAO
-contr
-control

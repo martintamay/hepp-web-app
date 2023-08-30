@@ -1,6 +1,0 @@
-index.php
-hepp
-form_parametros
-SIM
-form
-form_parametros

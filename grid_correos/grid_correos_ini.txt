@@ -1,6 +1,0 @@
-index.php
-hepp
-grid_correos
-SIM
-cons
-grid_correos

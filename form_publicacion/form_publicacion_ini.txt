@@ -1,6 +1,0 @@
-index.php
-hepp
-form_publicacion
-SIM
-form
-form_publicacion

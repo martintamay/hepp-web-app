@@ -1,6 +1,0 @@
-index.php
-hepp
-form_redes
-SIM
-form
-form_redes

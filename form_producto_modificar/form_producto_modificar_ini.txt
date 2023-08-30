@@ -1,6 +1,0 @@
-index.php
-hepp
-form_producto_modificar
-NAO
-form
-form_producto_modificar
